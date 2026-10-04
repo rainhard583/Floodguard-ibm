@@ -1,0 +1,2 @@
+
+{"flutter":{"platforms":{"android":{"default":{"projectId":"floodguard-deb71","appId":"1:858207603668:android:23b6976f04017e48182441","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"floodguard-deb71","configurations":{"android":"1:858207603668:android:23b6976f04017e48182441","ios":"1:858207603668:ios:5a180e2aca214bd2182441","macos":"1:858207603668:ios:5a180e2aca214bd2182441","web":"1:858207603668:web:db18326405d1fb97182441","windows":"1:858207603668:web:b2eca2ccc060dbab182441"}}}}}}

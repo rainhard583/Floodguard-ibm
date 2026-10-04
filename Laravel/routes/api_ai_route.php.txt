@@ -1,0 +1,8 @@
+<?php
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AiAnalystController;
+
+// Add this route to routes/api.php if it is not already present:
+Route::post('/ai/analyze', [AiAnalystController::class, 'analyze']);

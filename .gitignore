@@ -1,0 +1,35 @@
+# Flutter
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.packages
+
+# Node / Firebase Functions
+**/node_modules/
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+
+# Laravel
+**/vendor/
+Laravel/storage/logs/
+Laravel/storage/framework/cache/
+Laravel/storage/framework/sessions/
+Laravel/storage/framework/views/
+
+# Environment & secrets
+**/.env
+**/.env.*
+!**/.env.example
+
+# IDE
+**/.idea/
+**/.vscode/
+**/.idea_backup/
+
+# OS
+Thumbs.db
+.DS_Store
+
+**/google-services.json
